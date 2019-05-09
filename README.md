@@ -10,7 +10,6 @@ detect sms automatically and set to required
 it uses the sms retriever class to detect the sms automatically
 ---
 ## Author Info
-- Website - [Sreerag M] (www.sysirohub.co.in)
+- Website - [Sreerag M](www.sysirohub.co.in)
 
  
-[Back to top](# Autosmsreceiver)
